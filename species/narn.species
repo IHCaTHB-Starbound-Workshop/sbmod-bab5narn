@@ -91,7 +91,7 @@
       "image" : "/interface/title/male.png",
       "characterImage" : "/interface/title/narnmale.png",
       "hair" : [ "narn26" ],
-      "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
+      "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt","" ],
       "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
