@@ -5,8 +5,20 @@
 contains:
 1 race
 slightly modified humanoid sprite
+1 "hair" "style"
 name generator
-placeholder ship (floran)
+
+placeholder:
+floran ship
+avian outfits
+floran tier armor
+human respawn, likely not to change
+
+soon to come:
++ spot styles
++ ship
++ outfits
++ tier armor
 
 Find the server version on [url=https://github.com/IsaacHart/sbmod-bab5narn]git[/url].
 
