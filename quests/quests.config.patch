@@ -1,1 +1,17 @@
-
+[
+	{
+		"op": "add",
+		"path": "/initialquests/narn",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/narn",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]
