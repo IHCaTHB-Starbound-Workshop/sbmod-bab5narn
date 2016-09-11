@@ -1,1 +1,10 @@
-
+[
+	{ "op" : "add",
+		"path" : "/species/narn",
+		"value" : {
+			"aiFrames" : "floranai.png",
+			"portraitFrames" : "portraits/floranportrait.png",
+			"staticFrames" : "staticfloran.png"
+		}
+	}
+]
