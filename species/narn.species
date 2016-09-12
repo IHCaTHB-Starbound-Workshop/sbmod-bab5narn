@@ -2,7 +2,7 @@
   "kind" : "narn",
 	"charCreationTooltip" : {
 	"title" : "Narn",
-	"subTitle" : "Regime",
+	"subTitle" : "Fe",
 	"description" : "Physically, the Narn are among the strongest of all the younger races, and can hold their own in hand-to-hand combat even with the Minbari."
   },
   "nameGen" : [ "/species/narnnamegen.config:names", "/species/narnnamegen.config:names" ],
