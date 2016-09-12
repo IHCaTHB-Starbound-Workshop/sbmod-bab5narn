@@ -1,6 +1,38 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "[h1]Narn[/h1]\ninvasion from Babylon 5!\n\ncontains:\n1 race\nslightly modified humanoid sprite\n1 ''hair'' ''style''\nname generator\n\nplaceholder:\nfloran ship\navian outfits\nfloran tier armor\nhuman respawn, likely not to change\n\nsoon to come:\n+ spot styles\n+ ship\n+ outfits\n+ tier armor\n+ G'Quan Eth flower\n\nFind the server version on [url=https://github.com/IsaacHart/sbmod-bab5narn]git[/url].\n\nLEAVE A COMMENT IF YOU\nlike the mod\nhate the mod\nfind an issue with the mod\ntake an issue with the mod\nhave a question about the mod\nhave a problem with the mod\nand especially\n[u][b]if you have a request[/b][/u]",
+  "description" : "[h1]Narn invasion from Babylon 5![/h1]
+
+contains:
+1 playable race
+slightly modified humanoid sprite
+1 ''hair'' ''style''
+name generator
+
+placeholder:
+floran ship
+avian outfits
+floran tier armor
+human respawn, likely not to change
+
+soon to come:
++ spot styles
++ ship
++ dialog
++ outfits
++ tier armor
++ G'Quan Eth flower
+
+Find the server version on [url=https://github.com/IsaacHart/sbmod-bab5narn]git.[/url]
+
+LEAVE A COMMENT IF YOU
+like the mod
+hate the mod
+find an issue with the mod
+take an issue with the mod
+have a question about the mod
+have a problem with the mod
+and especially
+[u][b]if you have a request[/b][/u]"
   "friendlyName" : "Narn",
   "link" : "steam://url/CommunityFilePage/762353779",
   "name" : "BAB5NARN.IHC",
