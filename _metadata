@@ -1,6 +1,7 @@
 {
   "author" : "isaac as THE HONEY BADGER",
   "description" : "[h1]Narn invasion from Babylon 5![/h1]
+Requires a character extender, like [url=http://steamcommunity.com/sharedfiles/filedetails/?id=737369146]Nyaatech![/url]
 
 contains:
 1 playable race
@@ -22,19 +23,10 @@ soon to come:
 + tier armor
 + G'Quan Eth flower
 
-Find the server version on [url=https://github.com/IsaacHart/sbmod-bab5narn]git.[/url]
-
-LEAVE A COMMENT IF YOU
-like the mod
-hate the mod
-find an issue with the mod
-take an issue with the mod
-have a question about the mod
-have a problem with the mod
-and especially
-[u][b]if you have a request[/b][/u]"
+[url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
+Find the server version on [url=https://github.com/IsaacHart/sbmod-bab5narn]git.[/url]"
   "friendlyName" : "Narn",
-  "link" : "steam://url/CommunityFilePage/762353779",
+  "link" : "https://github.com/IsaacHart/sbmod-bab5narn",
   "name" : "BAB5NARN.IHC",
   "steamContentId" : "762353779",
   "version" : "0.1"
