@@ -3,8 +3,8 @@
 tmp export-ignore
 hold export-ignore
 bodytxt export-ignore
-*old.png
-*tmp.png
+*old.png export-ignore
+*tmp.png export-ignore
 preview.png export-ignore
 .gitignore export-ignore
 .gitattributes export-ignore
