@@ -1,17 +1,7 @@
 [
 	{
-		"op": "add",
+		"op": "copy",
 		"path": "/initialquests/narn",
-		"value": [
-			"protectorate"
-		]
-	},
-	{
-		"op": "add",
-		"path": "/pronounGenders/narn",
-		"value": {
-			"male": "neutral",
-			"female": "neutral"
-		}
+		"from": "/initialquests/avian"
 	}
 ]
